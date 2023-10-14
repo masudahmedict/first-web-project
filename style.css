@@ -1,3 +1,11 @@
 body{
 	background-color:wheat;
 }
+
+.title{
+	background-color: chartreuse;
+	text-align: center;
+	padding: 10px;
+	border-radius: 30px;
+
+}
