@@ -9,4 +9,13 @@ body{
 	border-radius: 30px;
 
 }
+h2
+{
+	border: 5PX;
+	background-color: crimson;
+}
 
+P{
+	color: blue;
+	font-size: large;
+}
